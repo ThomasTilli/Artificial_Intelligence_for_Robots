@@ -8,3 +8,6 @@ Topics are:
 - Dynamic programming
 - P-, PD- and PID control
 - SLAM
+
+## Software requirements:
+Anaconda Python 2.7
